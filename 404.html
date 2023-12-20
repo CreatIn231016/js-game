@@ -29,11 +29,11 @@
 	var num=parseInt($_num.html());
 	var numId=setInterval(function(){
 		num--;
-		$_num.html(num);
 		if(num===0){
 			//跳转地址写在这里
-			window.location.href="../";
+			window.location.href="https://seul.rth1.app";
 		}
+		$_num.html(num);
 	},1000);
 	//返回按钮单击事件
 	var reloadPage = $("#reload-btn");
