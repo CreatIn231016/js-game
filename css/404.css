@@ -6,7 +6,7 @@ body {
 	margin: 230px auto;
 }
 .container {
-	background: url(../images/404-bg.png) no-repeat 560px top;
+	background: url(../img/404-bg.png) no-repeat 560px top;
 }
 .settings {
 	padding-left: 200px;
@@ -16,7 +16,7 @@ body {
 	display: block;
 	width: 242px;
 	height: 106px;
-	background: url(../images/404.png) no-repeat 0 0;
+	background: url(../img/404.png) no-repeat 0 0;
 }
 .settings h4 {
 	margin: 30px 0 15px 0;
